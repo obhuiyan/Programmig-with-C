@@ -12,5 +12,8 @@ int main()
     printf("the reslt of A+B+A-B is: %d\n",result);
     return 0;
 }
-    
+ 
+
+
+
  
